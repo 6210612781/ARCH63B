@@ -11,3 +11,5 @@ CLIP6: https://www.youtube.com/watch?v=18RON3ixNis
 CLIP7: https://www.youtube.com/watch?v=deFl1fXufBM
 
 CLIP8: https://www.youtube.com/watch?v=MAKcmM8PtlY
+
+CLIP9: https://www.youtube.com/watch?v=pVYJgcIrsDc
